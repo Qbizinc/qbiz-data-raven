@@ -1,0 +1,4 @@
+Test description: {description}
+Test outcome: {result}
+Test measure: {measure}
+Test threshold: {threshold}
